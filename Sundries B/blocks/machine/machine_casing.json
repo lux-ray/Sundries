@@ -1,0 +1,24 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "sd:machine_casing",
+      "register_to_creative_menu": true,
+      "is_experimental": false
+    },
+    "components": {
+      "minecraft:destroy_time": {
+        "value": 0.2
+      },
+      "minecraft:block_light_absorption": {
+        "value": 0
+      },
+      "minecraft:map_color": {
+        "color": "#b8b8b8"
+      },
+      "minecraft:explosion_resistance": {
+        "value": 10
+      }
+    }
+  }
+}
