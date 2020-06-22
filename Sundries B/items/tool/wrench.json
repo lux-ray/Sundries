@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "sd:wrench"
+    },
+    "components": {
+      "minecraft:max_damage": 1000,
+      "minecraft:hand_equipped": true,
+      "minecraft:max_stack_size": 1,
+      "minecraft:stacked_by_data": true
+    }
+  }
+}
