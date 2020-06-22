@@ -7,7 +7,7 @@
         "default": "slime"
       },
       "textures": {
-        "default": "textures/entity/infinity_water"
+        "default": "textures/entities/infinity_water"
       },
       "geometry": {
         "default": "geometry.normal_machine"
