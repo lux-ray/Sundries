@@ -69,7 +69,7 @@
           "play_sound": "milk",
           "interact_text": "action.interact.wash",
           "add_items": {
-            "table": "loot_tables/entity/washed_gold_dust.json"
+            "table": "loot_tables/block/washed_gold_dust.json"
           }
         },
         {
