@@ -1,0 +1,22 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "netherrack_to_comp_netherrack"
+        },
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "###",
+            "###",
+            "###"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:netherrack"
+            }
+        },
+        "result": {
+            "item": "sd:comp_netherrack"
+        }
+    }
+}

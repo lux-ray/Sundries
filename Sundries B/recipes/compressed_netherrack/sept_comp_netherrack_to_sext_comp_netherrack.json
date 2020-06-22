@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "sd:sept_comp_netherrack_to_sext_comp_netherrack"
+        },
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "#"
+        ],
+        "key": {
+            "#": {
+                "item": "sd:sept_comp_netherrack"
+            }
+        },
+        "result": {
+            "item": "sd:sext_comp_netherrack",
+            "count": 9
+        }
+    }
+}
