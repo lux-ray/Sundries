@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+            "description": "My DiscordID:Euxcbsks#5316",
+            "name": "Sundries R",
+            "uuid": "a1fc1e65-fc23-4e25-9994-7d38fee75fb7",
+            "version": [3,0,0],
+            "min_engine_version": [1, 14, 0]
+    },
+    "modules": [
+        {
+            "description": "My DiscordID:Euxcbsks#5316",
+            "type": "resources",
+            "uuid": "4db3dbea-f40f-4981-9a27-cde1af531e5b",
+            "version": [3,0,0]
+        }
+    ]
+}
