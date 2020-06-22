@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "sd:comp_dirt_to_dirt"
+    },
+
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#"
+    ],
+    "key": {
+      "#": {
+        "item": "sd:comp_dirt"
+      }
+    },
+    "result": {
+      "item": "minecraft:dirt",
+      "count": 9
+    }
+  }
+}
