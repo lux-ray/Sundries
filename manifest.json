@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "My DiscordID:Euxcbsks#5316",
+        "name": "Sundries B",
+        "uuid": "ab0e198b-83d3-4392-ab73-f16cb2617e9f",
+        "version": [3,0,0],
+        "min_engine_version": [1, 14, 0]
+    },
+    "modules": [
+        {
+            "description": "My DiscordID:Euxcbsks#5316",
+            "type": "data",
+            "uuid": "4751f2f8-11af-47e1-8f97-eb2e17c658ef",
+            "version": [3,0,0]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "a1fc1e65-fc23-4e25-9994-7d38fee75fb7",
+            "version": [3,0,0]
+        }
+    ]
+}
