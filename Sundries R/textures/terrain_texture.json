@@ -1,0 +1,133 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 5,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "comp_cobblestone": {
+      "textures": [
+        "textures/blocks/compressed_cobblestone/comp_cobblestone"
+        ]
+    },
+    "doub_comp_cobblestone": {
+      "textures": [
+        "textures/blocks/compressed_cobblestone/doub_comp_cobblestone"
+      ]
+    },
+    "trip_comp_cobblestone": {
+      "textures": [
+        "textures/blocks/compressed_cobblestone/trip_comp_cobblestone"
+      ]
+    },
+    "quad_comp_cobblestone": {
+      "textures": [
+        "textures/blocks/compressed_cobblestone/quad_comp_cobblestone"
+      ]
+    },
+    "quin_comp_cobblestone": {
+      "textures": [
+        "textures/blocks/compressed_cobblestone/quin_comp_cobblestone"
+      ]
+    },
+    "sext_comp_cobblestone": {
+      "textures": [
+        "textures/blocks/compressed_cobblestone/sext_comp_cobblestone"
+      ]
+    },
+    "sept_comp_cobblestone": {
+      "textures": [
+        "textures/blocks/compressed_cobblestone/sept_comp_cobblestone"
+      ]
+    },
+    "octu_comp_cobblestone": {
+      "textures": [
+        "textures/blocks/compressed_cobblestone/octu_comp_cobblestone"
+      ]
+    },
+    "comp_netherrack": {
+      "textures": [
+        "textures/blocks/compressed_netherrack/comp_netherrack"
+      ]
+    },
+    "doub_comp_netherrack": {
+      "textures": [
+        "textures/blocks/compressed_netherrack/doub_comp_netherrack"
+      ]
+    },
+    "trip_comp_netherrack": {
+      "textures": [
+        "textures/blocks/compressed_netherrack/trip_comp_netherrack"
+      ]
+    },
+    "quad_comp_netherrack": {
+      "textures": [
+        "textures/blocks/compressed_netherrack/quad_comp_netherrack"
+      ]
+    },
+    "quin_comp_netherrack": {
+      "textures": [
+        "textures/blocks/compressed_netherrack/quin_comp_netherrack"
+      ]
+    },
+    "sext_comp_netherrack": {
+      "textures": [
+        "textures/blocks/compressed_netherrack/sext_comp_netherrack"
+      ]
+    },
+    "sept_comp_netherrack": {
+      "textures": [
+        "textures/blocks/compressed_netherrack/sept_comp_netherrack"
+      ]
+    },
+    "octu_comp_netherrack": {
+      "textures": [
+        "textures/blocks/compressed_netherrack/octu_comp_netherrack"
+      ]
+    },
+    "comp_dirt": {
+      "textures": [
+        "textures/blocks/compressed_dirt/comp_dirt"
+      ]
+    },
+    "doub_comp_dirt": {
+      "textures": [
+        "textures/blocks/compressed_dirt/doub_comp_dirt"
+      ]
+    },
+    "trip_comp_dirt": {
+      "textures": [
+        "textures/blocks/compressed_dirt/trip_comp_dirt"
+      ]
+    },
+    "quad_comp_dirt": {
+      "textures": [
+        "textures/blocks/compressed_dirt/quad_comp_dirt"
+      ]
+    },
+    "quin_comp_dirt": {
+      "textures": [
+        "textures/blocks/compressed_dirt/quin_comp_dirt"
+      ]
+    },
+    "sext_comp_dirt": {
+      "textures": [
+        "textures/blocks/compressed_dirt/sext_comp_dirt"
+      ]
+    },
+    "sept_comp_dirt": {
+      "textures": [
+        "textures/blocks/compressed_dirt/sept_comp_dirt"
+      ]
+    },
+    "octu_comp_dirt": {
+      "textures": [
+        "textures/blocks/compressed_dirt/octu_comp_dirt"
+      ]
+    },
+    "machine_casing": {
+      "textures": [
+        "textures/blocks/machine/machine_casing"
+      ]
+    }
+  }
+}
