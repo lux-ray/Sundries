@@ -1,0 +1,22 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "sd:infinity_water",
+      "materials": {
+        "default": "slime"
+      },
+      "textures": {
+        "default": "textures/entity/infinity_water"
+      },
+      "geometry": {
+        "default": "geometry.normal_machine"
+      },
+      "render_controllers": [ "controller.render.normal_machine" ],
+      "spawn_egg": {
+        "texture": "infinity_water",
+        "texture_index": 0
+      }
+    }
+  }
+}
