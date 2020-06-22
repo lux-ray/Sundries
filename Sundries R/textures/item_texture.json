@@ -4,34 +4,29 @@
   "texture_data": {
     "infinity_water": {
       "textures": [
-        "textures/items/infinity_water"
-      ]
-    },
-    "enchanted_book_maker": {
-      "textures": [
-        "textures/items/enchanted_book_maker"
+        "textures/items/block/infinity_water"
       ]
     },
     "wrench": {
-      "textures": "textures/items/wrench"
+      "textures": "textures/items/tool/wrench"
     },
     "hammer": {
-      "textures": "textures/items/hammer"
+      "textures": "textures/items/tool/hammer"
     },
     "iron_dust": {
-      "textures": "textures/items/iron_dust"
+      "textures": "textures/items/ore/iron_dust"
     },
     "gold_dust": {
-      "textures": "textures/items/gold_dust"
+      "textures": "textures/items/ore/gold_dust"
     },
     "stone_dust": {
-      "textures": "textures/items/stone_dust"
+      "textures": "textures/items/ore/stone_dust"
     },
     "washed_iron_dust": {
-      "textures": "textures/items/washed_iron_dust"
+      "textures": "textures/items/ore/washed_iron_dust"
     },
     "washed_gold_dust": {
-      "textures": "textures/items/washed_gold_dust"
+      "textures": "textures/items/ore/washed_gold_dust"
     }
 	}
 }
