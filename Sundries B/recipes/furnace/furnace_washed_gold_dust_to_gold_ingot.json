@@ -1,0 +1,11 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "sd:washed_gold_dust_to_gold_ingot"
+    },
+    "tags": ["furnace"],
+    "input": "sd:washed_gold_dust",
+    "output": "minecraft:gold_ingot"
+  }
+}
