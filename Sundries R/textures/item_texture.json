@@ -1,0 +1,37 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "infinity_water": {
+      "textures": [
+        "textures/items/infinity_water"
+      ]
+    },
+    "enchanted_book_maker": {
+      "textures": [
+        "textures/items/enchanted_book_maker"
+      ]
+    },
+    "wrench": {
+      "textures": "textures/items/wrench"
+    },
+    "hammer": {
+      "textures": "textures/items/hammer"
+    },
+    "iron_dust": {
+      "textures": "textures/items/iron_dust"
+    },
+    "gold_dust": {
+      "textures": "textures/items/gold_dust"
+    },
+    "stone_dust": {
+      "textures": "textures/items/stone_dust"
+    },
+    "washed_iron_dust": {
+      "textures": "textures/items/washed_iron_dust"
+    },
+    "washed_gold_dust": {
+      "textures": "textures/items/washed_gold_dust"
+    }
+	}
+}
