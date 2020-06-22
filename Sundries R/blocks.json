@@ -1,0 +1,103 @@
+{
+	"format_version": [1, 1, 0],
+  "sd:comp_cobblestone": {
+    "textures": "comp_cobblestone",
+    "sound": "stone"
+  },
+  "sd:doub_comp_cobblestone": {
+    "textures": "doub_comp_cobblestone",
+    "sound": "stone"
+  },
+  "sd:trip_comp_cobblestone": {
+    "textures": "trip_comp_cobblestone",
+    "sound": "stone"
+  },
+  "sd:quad_comp_cobblestone": {
+    "textures": "quad_comp_cobblestone",
+    "sound": "stone"
+  },
+  "sd:quin_comp_cobblestone": {
+    "textures": "quin_comp_cobblestone",
+    "sound": "stone"
+  },
+  "sd:sext_comp_cobblestone": {
+    "textures": "sext_comp_cobblestone",
+    "sound": "stone"
+  },
+  "sd:sept_comp_cobblestone": {
+    "textures": "sept_comp_cobblestone",
+    "sound": "stone"
+  },
+  "sd:octu_comp_cobblestone": {
+    "textures": "octu_comp_cobblestone",
+    "sound": "stone"
+  },
+  "sd:comp_netherrack": {
+    "textures": "comp_netherrack",
+    "sound": "stone"
+  },
+  "sd:doub_comp_netherrack": {
+    "textures": "doub_comp_netherrack",
+    "sound": "stone"
+  },
+  "sd:trip_comp_netherrack": {
+    "textures": "trip_comp_netherrack",
+    "sound": "stone"
+  },
+  "sd:quad_comp_netherrack": {
+    "textures": "quad_comp_netherrack",
+    "sound": "stone"
+  },
+  "sd:quin_comp_netherrack": {
+    "textures": "quin_comp_netherrack",
+    "sound": "stone"
+  },
+  "sd:sext_comp_netherrack": {
+    "textures": "sext_comp_netherrack",
+    "sound": "stone"
+  },
+  "sd:sept_comp_netherrack": {
+    "textures": "sept_comp_netherrack",
+    "sound": "stone"
+  },
+  "sd:octu_comp_netherrack": {
+    "textures": "octu_comp_netherrack",
+    "sound": "stone"
+  },
+  "sd:comp_dirt": {
+    "textures": "comp_dirt",
+    "sound": "dirt"
+  },
+  "sd:doub_comp_dirt": {
+    "textures": "doub_comp_dirt",
+    "sound": "dirt"
+  },
+  "sd:trip_comp_dirt": {
+    "textures": "trip_comp_dirt",
+    "sound": "dirt"
+  },
+  "sd:quad_comp_dirt": {
+    "textures": "quad_comp_dirt",
+    "sound": "dirt"
+  },
+  "sd:quin_comp_dirt": {
+    "textures": "quin_comp_dirt",
+    "sound": "dirt"
+  },
+  "sd:sext_comp_dirt": {
+    "textures": "sext_comp_dirt",
+    "sound": "dirt"
+  },
+  "sd:sept_comp_dirt": {
+    "textures": "sept_comp_dirt",
+    "sound": "dirt"
+  },
+  "sd:octu_comp_dirt": {
+    "textures": "octu_comp_dirt",
+    "sound": "dirt"
+  },
+  "sd:machine_casing": {
+    "textures": "machine_casing",
+    "sound": "stone"
+  }
+}
