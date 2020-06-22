@@ -1,0 +1,42 @@
+tile.sd:comp_cobblestone.name=Compressed Cobblestone
+tile.sd:doub_comp_cobblestone.name=Double Compressed Cobblestone
+tile.sd:trip_comp_cobblestone.name=Triple Compressed Cobblestone
+tile.sd:quad_comp_cobblestone.name=Quadruple Compressed Cobblestone
+tile.sd:quin_comp_cobblestone.name=Quintuple Compressed Cobblestone
+tile.sd:sext_comp_cobblestone.name=Sextuple Compressed Cobblestone
+tile.sd:sept_comp_cobblestone.name=Septuple Compressed Cobblestone
+tile.sd:octu_comp_cobblestone.name=Octuple Compressed Cobblestone
+
+tile.sd:comp_cobblestone.name=Compressed Netherrack
+tile.sd:doub_comp_cobblestone.name=Double Compressed Netherrack
+tile.sd:trip_comp_cobblestone.name=Triple Compressed Netherrack
+tile.sd:quad_comp_cobblestone.name=Quadruple Compressed Netherrack
+tile.sd:quin_comp_cobblestone.name=Quintuple Compressed Netherrack
+tile.sd:sext_comp_cobblestone.name=Sextuple Compressed Netherrack
+tile.sd:sept_comp_cobblestone.name=Septuple Compressed Netherrack
+tile.sd:octu_comp_cobblestone.name=Octuple Compressed Netherrack
+
+tile.sd:comp_dirt.name=Compressed Dirt
+tile.sd:doub_comp_dirt.name=Double Compressed Dirt
+tile.sd:trip_comp_dirt.name=Triple Compressed Dirt
+tile.sd:quad_comp_dirt.name=Quadruple Compressed Dirt
+tile.sd:quin_comp_dirt.name=Quintuple Compressed Dirt
+tile.sd:sext_comp_dirt.name=Sextuple Compressed Dirt
+tile.sd:sept_comp_dirt.name=Septuple Compressed Dirt
+tile.sd:octu_comp_dirt.name=Octuple Compressed Dirt
+
+tile.sd:machine_casing.name=Machine casing
+
+item.spawn_egg.entity.sd:infinity_water.name=Infinity Water
+
+item.sd:wrench.name=Wrench
+item.sd:hammer.name=Hammer
+item.sd:gold_dust.name=Gold dust
+item.sd:iron_dust.name=Iron dust
+item.sd:stone_dust.name=Stone dust
+item.sd:washed_gold_dust.name=Washed gold dust
+item.sd:washed_iron_dust.name=Washed iron dust
+
+action.interact.fill_water=Fill water
+action.interact.remove=Remove
+action.interact.wash=Wash
