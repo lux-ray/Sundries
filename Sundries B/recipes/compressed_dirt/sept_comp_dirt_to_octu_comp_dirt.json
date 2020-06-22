@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "sd:sept_comp_dirt_to_octu_comp_dirt"
+    },
+
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "sd:sept_comp_dirt"
+      }
+    },
+    "result": {
+      "item": "sd:octu_comp_dirt"
+    }
+  }
+}
