@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "sd:sept_comp_cobblestone_to_sext_comp_cobblestone"
+    },
+
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#"
+    ],
+    "key": {
+      "#": {
+        "item": "sd:sept_comp_cobblestone"
+      }
+    },
+    "result": {
+      "item": "sd:sext_comp_cobblestone",
+      "count": 9
+    }
+  }
+}
