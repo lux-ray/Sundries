@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "sd:trip_comp_dirt_to_doub_comp_dirt"
+    },
+
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#"
+    ],
+    "key": {
+      "#": {
+        "item": "sd:trip_comp_dirt"
+      }
+    },
+    "result": {
+      "item": "sd:doub_comp_dirt",
+      "count": 9
+    }
+  }
+}

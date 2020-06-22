@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "sd:quad_comp_dirt_to_quin_comp_dirt"
+    },
+
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "sd:quad_comp_dirt"
+      }
+    },
+    "result": {
+      "item": "sd:quin_comp_dirt"
+    }
+  }
+}
