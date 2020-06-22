@@ -1,10 +1,8 @@
 # Minecraft-addon_Sundries
 Sundries Addon Development Project
 
-Sundries addon的原檔存放處
+Sundries addon開發計畫
 
-Addon資訊：
+若想提供建議，請至Discord聯繫 Euxcbsks#5316
 
-目前穩定版本：v2.0.0
-
-開發狀態：開發中
+Addon開發狀態：開發中
