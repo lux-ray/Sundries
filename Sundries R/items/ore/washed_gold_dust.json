@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "sd:washed_gold_dust",
+      "category": "Items"
+    },
+    "components": {
+      "minecraft:icon": "washed_gold_dust",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}
