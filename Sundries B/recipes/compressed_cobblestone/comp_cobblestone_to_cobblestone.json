@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:cobblestone"
+    },
+
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#"
+    ],
+    "key": {
+      "#": {
+        "item": "sd:comp_cobblestone"
+      }
+    },
+    "result": {
+      "item": "minecraft:cobblestone",
+      "count": 9
+    }
+  }
+}
